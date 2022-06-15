@@ -1,5 +1,5 @@
 # TQQQ_simulation
-Simulating TQQQ data before 2010
+Simulating TQQQ data snice 1985
 
 
 <img src="WeChat%20Screenshot_20220615123552.png" width="800">
