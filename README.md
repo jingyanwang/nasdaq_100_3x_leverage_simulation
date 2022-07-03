@@ -1,9 +1,7 @@
 # TQQQ_simulation
 Simulating TQQQ data snice 1985
 
-
-<img src="tqqq%20(2).png" width="800">
-
+<img src="TQQQ_simulation.png" width="800">
 
 <img src="qld.png" width="800">
 
