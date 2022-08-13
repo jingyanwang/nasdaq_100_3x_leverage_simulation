@@ -1,6 +1,4 @@
-# TQQQ_simulation
-
-contact me by jimjywang@gmail.com
+# nasdaq 100 2x and 3x leveraged ETF simulation 
 
 ## Simulating TQQQ data snice 1985
 
