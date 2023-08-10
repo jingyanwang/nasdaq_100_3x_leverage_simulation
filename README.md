@@ -1,6 +1,6 @@
 ## Simulating QLD and TQQQ data snice 1985
 
-<img src="qqq.png" width="600">
+<img src="qqq.png" width="580">
 
 <img src="qld.png" width="600">
 
