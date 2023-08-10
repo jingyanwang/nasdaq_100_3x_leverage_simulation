@@ -1,4 +1,4 @@
-## Simulating TQQQ data snice 1985
+## Simulating QLD and TQQQ data snice 1985
 
 <img src="qqq.png" width="600">
 
