@@ -1,14 +1,14 @@
+## Simulating TQQQ data snice 1985
+
+<img src="TQQQ_simulation.png" width="600">
+
+<img src="qld.png" width="600">
+
 # nasdaq 100 2x and 3x leveraged ETF simulation 
 
 ## ratio of holding x years
 
-<img src="ratio.png" width="800">
-
-## Simulating TQQQ data snice 1985
-
-<img src="TQQQ_simulation.png" width="800">
-
-<img src="qld.png" width="800">
+<img src="ratio.png" width="600">
 
 ## return 
 
