@@ -15,7 +15,7 @@
 
 ### x3
 
-<img src="spxl" width="560">
+<img src="spxl.png" width="560">
 
 # nasdaq 100 2x and 3x leveraged ETF simulation 
 
