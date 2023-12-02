@@ -1,8 +1,14 @@
-## Simulating QLD and TQQQ data snice 1985
+## Simulating leveraged Nasdaq 100
+
+### x1
 
 <img src="qqq_update.png" width="560">
 
+### x2
+
 <img src="qld simulated.png" width="600">
+
+### x3
 
 <img src="tqqq_simulated.png" width="600">
 
