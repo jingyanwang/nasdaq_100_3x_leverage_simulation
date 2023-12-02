@@ -7,6 +7,11 @@
 <img src="tqqq_simulated.png" width="600">
 
 
+## Simulating leveraged SP500
+
+<img src="sso.png" width="560">
+
+
 # nasdaq 100 2x and 3x leveraged ETF simulation 
 
 ## ratio of holding x years
