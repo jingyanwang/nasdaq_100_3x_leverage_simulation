@@ -9,8 +9,13 @@
 
 ## Simulating leveraged SP500
 
+### x2
+
 <img src="sso.png" width="560">
 
+### x3
+
+<img src="spxl" width="560">
 
 # nasdaq 100 2x and 3x leveraged ETF simulation 
 
