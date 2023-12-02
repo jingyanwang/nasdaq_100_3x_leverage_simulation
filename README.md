@@ -9,6 +9,10 @@
 
 ## Simulating leveraged SP500
 
+### x1
+
+<img src="gspc.png" width="560">
+
 ### x2
 
 <img src="sso.png" width="560">
