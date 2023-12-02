@@ -2,7 +2,7 @@
 
 <img src="qqq.png" width="560">
 
-<img src="qld.png" width="600">
+<img src="qld simulated.png" width="600">
 
 <img src="TQQQ_simulation.png" width="600">
 
