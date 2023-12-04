@@ -1,11 +1,31 @@
-## Simulating QLD and TQQQ data snice 1985
+## Simulating leveraged Nasdaq 100
 
-<img src="qqq.png" width="560">
+### x1
 
-<img src="qld.png" width="600">
+<img src="qqq_update.png" width="560">
 
-<img src="TQQQ_simulation.png" width="600">
+### x2
 
+<img src="qld simulated.png" width="600">
+
+### x3
+
+<img src="tqqq_simulated.png" width="600">
+
+
+## Simulating leveraged SP500
+
+### x1
+
+<img src="gspc.png" width="560">
+
+### x2
+
+<img src="sso.png" width="560">
+
+### x3
+
+<img src="spxl.png" width="560">
 
 # nasdaq 100 2x and 3x leveraged ETF simulation 
 
