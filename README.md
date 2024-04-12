@@ -6,7 +6,7 @@
 
 ### x2
 
-<img src="qld simulated.png" width="600">
+<img src="qld_simulated.png" width="600">
 
 ### x3
 
