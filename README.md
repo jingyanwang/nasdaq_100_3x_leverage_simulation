@@ -40,4 +40,6 @@
 <img src="20%20y%20return.png" width="600">
 
 
+## return of all ETFs
 
+<img src="rates.png" width="600">
