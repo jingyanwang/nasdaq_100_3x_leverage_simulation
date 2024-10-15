@@ -1,5 +1,12 @@
 ## Simulating leveraged Nasdaq 100
 
+
+### qqq vs qld return by years
+
+<img src="qqq_vs_qld_return_by_years.png" width="560">
+
+
+
 ### x1
 
 <img src="qqq_update.png" width="560">
