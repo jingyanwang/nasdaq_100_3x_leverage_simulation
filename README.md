@@ -6,6 +6,10 @@
 <img src="qqq_vs_qld_return_by_years.png" width="560">
 
 
+### nasdaq 100 vs us property 30 year return
+
+<img src="nasdaq 100 vs us property 30 year return.png" width="560">
+
 
 ### x1
 
