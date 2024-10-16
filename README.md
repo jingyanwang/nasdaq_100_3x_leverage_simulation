@@ -11,6 +11,13 @@
 <img src="nasdaq 100 vs us property 30 year return.png" width="560">
 
 
+### nasdaq 100 vs california property 30 year return
+
+<img src="california vs nasdaq 100.png" width="560">
+
+
+
+
 ### x1
 
 <img src="qqq_update.png" width="560">
