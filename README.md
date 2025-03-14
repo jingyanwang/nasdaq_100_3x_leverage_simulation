@@ -1,3 +1,13 @@
+### nasdaq 100 vs california property 30 year return
+
+<img src="nq_vs_property_30y_return.png" width="560">
+
+### nasdaq 100 vs us property 30 year return
+
+<img src="nasdaq 100 vs us property 30 year return.png" width="560">
+
+
+
 ## Simulating leveraged Nasdaq 100
 
 
@@ -9,14 +19,8 @@
 <img src="qqq_vs_qld_return_by_years.png" width="560">
 
 
-### nasdaq 100 vs us property 30 year return
-
-<img src="nasdaq 100 vs us property 30 year return.png" width="560">
 
 
-### nasdaq 100 vs california property 30 year return
-
-<img src="california vs nasdaq 100.png" width="560">
 
 
 
